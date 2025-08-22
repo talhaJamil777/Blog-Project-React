@@ -27,8 +27,7 @@ The project is built using **React.js** and demonstrates the use of components, 
 ## 🚀 Installation & Setup
 Follow these steps to run the project locally:
 
-```bash
-# 1. Clone the repository
+# Clone the repository
 git clone https://github.com/talhaJamil777/Blog-Project-React.git
 
 # 2. Go into the project folder
